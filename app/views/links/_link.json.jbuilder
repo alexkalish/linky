@@ -1,0 +1,3 @@
+json.destination_url link.destination_url
+json.public_identifier link.public_identifier
+json.redirect_url redirector_url(public_identifier: link.public_identifier)
