@@ -1,0 +1,4 @@
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=aa91da1e-6f0b-4553-8ab9-5a13b239e745
+POSTGRES_DB=linky_development
+
