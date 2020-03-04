@@ -5,7 +5,7 @@ ruby '2.6.1'
 
 gem 'rails', '~> 5.2.2'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem 'devise', '~> 4.5.0'
 gem 'oj', '~> 3.7.8'
 gem 'multi_json', '~> 1.13.1'
